@@ -42,7 +42,7 @@ var indexTemplateInput = templateInput{
 	},
 	docTemplate: `# EKS-D {{.Tag}} Release
 
-For additional information, see the [changelog]({{changelogFileNameFunc .}}) for this release.
+## For additional information, see the [changelog]({{changelogFileNameFunc .}}) for this release.
 
 ## Release Manifest
 

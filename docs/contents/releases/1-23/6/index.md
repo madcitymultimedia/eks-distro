@@ -1,6 +1,6 @@
 # EKS-D v1-23-eks-6 Release
 
-For additional information, see the [changelog](CHANGELOG-v1-23-eks-6.md) for this release.
+## For additional information, see the [changelog](CHANGELOG-v1-23-eks-6.md) for this release.
 
 ## Release Manifest
 
